@@ -2,14 +2,14 @@ version: 1
 project:
   
   authors:
-    - id: student
-      name: student without a name yet
+    - id: rhoudijk
+      name: Rudolf Houdijk
       affiliations:
         - tud
 
   contributors:
-    - id: supervisor-1
-      name: prof. dr. John Doe
+    - id: lportela
+      name: dr. Luis Portela
       affiliations:
         - tud
     - id: committee-1
